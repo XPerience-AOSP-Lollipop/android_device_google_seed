@@ -15,7 +15,7 @@
     "branch": "cm-14.1"
   },
   {
-    "repository": "TheMupppets/proprietary_vendor_google",
+    "repository": "TheMuppets/proprietary_vendor_google",
     "target_path": "vendor/google",
     "branch": "cm-14.1"
   },
