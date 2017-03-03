@@ -15,9 +15,9 @@
     "branch": "cm-14.1"
   },
   {
-    "repository": "TheMuppets/proprietary_vendor_google",
+    "repository": "AICP/proprietary_vendor_google",
     "target_path": "vendor/google",
-    "branch": "cm-14.1"
+    "branch": "n7.1"
   },
   {
     "repository": "TheMuppets/proprietary_vendor_qcom_binaries",
@@ -25,4 +25,3 @@
     "branch": "cm-14.1"
   }
 ]
-
